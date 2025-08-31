@@ -11,6 +11,7 @@ A simple Python program that guesses a target word using a **Genetic Algorithm (
 ## How to run
 ```bash
 ```
+## EXAMPLE
+<img width="924" height="396" alt="Screenshot 2025-08-31 192505" src="https://github.com/user-attachments/assets/6d960433-5bf8-41f6-9216-4a1d45d54b75" />
 
-<img width="881" height="233" alt="image" src="https://github.com/user-attachments/assets/d02d2dc9-60ce-4486-8746-bcd87e33a051" />
 
