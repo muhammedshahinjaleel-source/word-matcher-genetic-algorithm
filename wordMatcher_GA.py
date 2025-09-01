@@ -10,6 +10,7 @@ max_gens = 30000
 mutation_rate = 0.3
 crossover_rate = 0.5
 
+fitness = []
 generation = []
 selectedSet = []
 fitnessScore = 0
@@ -118,3 +119,4 @@ print("Generations taken: " + str(generation_number))
     
 
     
+
